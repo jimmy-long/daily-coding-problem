@@ -8,4 +8,5 @@ Broken down by month.
 
 ### November
 
-**November 25**: Leetcode #1
+25. Leetcode #1
+26. Leetcode #2
